@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashusnapx" alt="ashusnapx" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript Programming**
-
 - 🌱 I’m currently learning **Javascript Programming**
 
 - 📝 I regularly write articles on [http://ashucodestarts.blogspot.com](http://ashucodestarts.blogspot.com)
